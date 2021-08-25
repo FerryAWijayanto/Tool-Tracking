@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>imageIcon</key>
+		<string>air-compressor.png</string>
+		<key>toolsName</key>
+		<string>Air Compressor</string>
+		<key>items</key>
+		<array>
+			<dict>
+				<key>item</key>
+				<string>Air Compressor 1</string>
+				<key>borrower</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>item</key>
+				<string>Air Compressor 2</string>
+				<key>borrower</key>
+				<string></string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>imageIcon</key>
+		<string>allen.png</string>
+		<key>toolsName</key>
+		<string>Allen Key Set</string>
+		<key>items</key>
+		<array>
+			<dict>
+				<key>item</key>
+				<string>Allen Key Set 1</string>
+				<key>borrower</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>item</key>
+				<string>Allen Key Set 2</string>
+				<key>borrower</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>item</key>
+				<string>Allen Key Set 3</string>
+				<key>borrower</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>item</key>
+				<string>Allen Key Set 4</string>
+				<key>borrower</key>
+				<string></string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>imageIcon</key>
+		<string>cutter.png</string>
+		<key>toolsName</key>
+		<string>Cutter</string>
+		<key>items</key>
+		<array>
+			<dict>
+				<key>item</key>
+				<string>Cutter 1</string>
+				<key>borrower</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>item</key>
+				<string>Cutter 2</string>
+				<key>borrower</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>item</key>
+				<string>Cutter 3</string>
+				<key>borrower</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>item</key>
+				<string>Cutter 4</string>
+				<key>borrower</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>item</key>
+				<string>Cutter 5</string>
+				<key>borrower</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>item</key>
+				<string>Cutter 6</string>
+				<key>borrower</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>item</key>
+				<string>Cutter 7</string>
+				<key>borrower</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>item</key>
+				<string>Cutter 8</string>
+				<key>borrower</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>item</key>
+				<string>Cutter 9</string>
+				<key>borrower</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>item</key>
+				<string>Cutter 10</string>
+				<key>borrower</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>item</key>
+				<string>Cutter 11</string>
+				<key>borrower</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>item</key>
+				<string>Cutter 12</string>
+				<key>borrower</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>item</key>
+				<string>Cutter 13</string>
+				<key>borrower</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>item</key>
+				<string>Cutter 14</string>
+				<key>borrower</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>item</key>
+				<string>Cutter 15</string>
+				<key>borrower</key>
+				<string></string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>imageIcon</key>
+		<string>hammer.png</string>
+		<key>toolsName</key>
+		<string>Hammer</string>
+		<key>items</key>
+		<array>
+			<dict>
+				<key>item</key>
+				<string>Hammer 1</string>
+				<key>borrower</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>item</key>
+				<string>Hammer 2</string>
+				<key>borrower</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>item</key>
+				<string>Hammer 3</string>
+				<key>borrower</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>item</key>
+				<string>Hammer 4</string>
+				<key>borrower</key>
+				<string></string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>imageIcon</key>
+		<string>measuring-tape.png</string>
+		<key>toolsName</key>
+		<string>Measuring Tape</string>
+		<key>items</key>
+		<array>
+			<dict>
+				<key>item</key>
+				<string>Measuring Tape 1</string>
+				<key>borrower</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>item</key>
+				<string>Measuring Tape 2</string>
+				<key>borrower</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>item</key>
+				<string>Measuring Tape 3</string>
+				<key>borrower</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>item</key>
+				<string>Measuring Tape 4</string>
+				<key>borrower</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>item</key>
+				<string>Measuring Tape 5</string>
+				<key>borrower</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>item</key>
+				<string>Measuring Tape 6</string>
+				<key>borrower</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>item</key>
+				<string>Measuring Tape 7</string>
+				<key>borrower</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>item</key>
+				<string>Measuring Tape 8</string>
+				<key>borrower</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>item</key>
+				<string>Measuring Tape 9</string>
+				<key>borrower</key>
+				<string></string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>imageIcon</key>
+		<string>pliers.png</string>
+		<key>toolsName</key>
+		<string>Pliers</string>
+		<key>items</key>
+		<array>
+			<dict>
+				<key>item</key>
+				<string>Pliers 1</string>
+				<key>borrower</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>item</key>
+				<string>Pliers 2</string>
+				<key>borrower</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>item</key>
+				<string>Pliers 3</string>
+				<key>borrower</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>item</key>
+				<string>Pliers 4</string>
+				<key>borrower</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>item</key>
+				<string>Pliers 5</string>
+				<key>borrower</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>item</key>
+				<string>Pliers 6</string>
+				<key>borrower</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>item</key>
+				<string>Pliers 7</string>
+				<key>borrower</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>item</key>
+				<string>Pliers 8</string>
+				<key>borrower</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>item</key>
+				<string>Pliers 9</string>
+				<key>borrower</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>item</key>
+				<string>Pliers 10</string>
+				<key>borrower</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>item</key>
+				<string>Pliers 11</string>
+				<key>borrower</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>item</key>
+				<string>Pliers 12</string>
+				<key>borrower</key>
+				<string></string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>imageIcon</key>
+		<string>screwdriver.png</string>
+		<key>toolsName</key>
+		<string>Screwdriver</string>
+		<key>items</key>
+		<array>
+			<dict>
+				<key>item</key>
+				<string>Screwdriver 1</string>
+				<key>borrower</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>item</key>
+				<string>Screwdriver 2</string>
+				<key>borrower</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>item</key>
+				<string>Screwdriver 3</string>
+				<key>borrower</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>item</key>
+				<string>Screwdriver 4</string>
+				<key>borrower</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>item</key>
+				<string>Screwdriver 5</string>
+				<key>borrower</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>item</key>
+				<string>Screwdriver 6</string>
+				<key>borrower</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>item</key>
+				<string>Screwdriver 7</string>
+				<key>borrower</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>item</key>
+				<string>Screwdriver 8</string>
+				<key>borrower</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>item</key>
+				<string>Screwdriver 9</string>
+				<key>borrower</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>item</key>
+				<string>Screwdriver 10</string>
+				<key>borrower</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>item</key>
+				<string>Screwdriver 11</string>
+				<key>borrower</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>item</key>
+				<string>Screwdriver 12</string>
+				<key>borrower</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>item</key>
+				<string>Screwdriver 13</string>
+				<key>borrower</key>
+				<string></string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>imageIcon</key>
+		<string>tools.png</string>
+		<key>toolsName</key>
+		<string>Wrench</string>
+		<key>items</key>
+		<array>
+			<dict>
+				<key>item</key>
+				<string>Wrench 1</string>
+				<key>borrower</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>item</key>
+				<string>Wrench 2</string>
+				<key>borrower</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>item</key>
+				<string>Wrench 3</string>
+				<key>borrower</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>item</key>
+				<string>Wrench 4</string>
+				<key>borrower</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>item</key>
+				<string>Wrench 5</string>
+				<key>borrower</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>item</key>
+				<string>Wrench 6</string>
+				<key>borrower</key>
+				<string></string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>imageIcon</key>
+		<string>welding-machine.png</string>
+		<key>toolsName</key>
+		<string>Welding machine</string>
+		<key>items</key>
+		<array>
+			<dict>
+				<key>item</key>
+				<string>Welding machine 1</string>
+				<key>borrower</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>item</key>
+				<string>Welding machine 2</string>
+				<key>borrower</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>item</key>
+				<string>Welding machine 3</string>
+				<key>borrower</key>
+				<string></string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>imageIcon</key>
+		<string>safety-goggles.png</string>
+		<key>toolsName</key>
+		<string>Welding glasses</string>
+		<key>items</key>
+		<array>
+			<dict>
+				<key>item</key>
+				<string>Welding glasses 1</string>
+				<key>borrower</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>item</key>
+				<string>Welding glasses 2</string>
+				<key>borrower</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>item</key>
+				<string>Welding glasses 3</string>
+				<key>borrower</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>item</key>
+				<string>Welding glasses 4</string>
+				<key>borrower</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>item</key>
+				<string>Welding glasses 5</string>
+				<key>borrower</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>item</key>
+				<string>Welding glasses 6</string>
+				<key>borrower</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>item</key>
+				<string>Welding glasses 7</string>
+				<key>borrower</key>
+				<string></string>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>
