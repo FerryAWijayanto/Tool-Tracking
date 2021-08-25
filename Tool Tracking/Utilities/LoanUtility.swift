@@ -19,17 +19,8 @@ class LoanUtility {
     // fetch
     static func fetch() -> [Item]? {
         guard let unarchiveData = UserDefaults.standard.object(forKey: key) as? Data else { return nil }
-        var items: [Item] = []
-        do {
-            if let data = try NSKeyedUnarchiver.unarchiveTopLevelObjectWithData(unarchiveData) as? [Item] {
-                items = data
-            }
-        } catch {
-            print(error.localizedDescription)
-        }
-        return items
-//        guard let unarchiveData = UserDefaults.standard.object(forKey: key) as? Data else { return nil }
-//        return NSKeyedUnarchiver.unarchiveObject(with: unarchiveData) as? [Item]
+        
+        return NSKeyedUnarchiver.unarchiveObject(with: unarchiveData) as? [Item]
     }
     
     // save
